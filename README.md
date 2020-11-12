@@ -6,4 +6,4 @@ Annotation file used - combined_windows.json
 
 Notebook - Anomaly Detection using GAN.ipynb
 
-PPT - Anomaly Detection using GAN
+PPT - Anomaly Detection using GAN.pptx
